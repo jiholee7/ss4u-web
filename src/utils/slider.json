@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Nike Mercurial Superfly 9 Elite",
+    "price": "275.99",
+    "detail": "Elite firm ground cleats for the best of the best. Pink Blast color.",
+    "image": "./superfly9.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Nike USWNT Men's 2023/24 Home",
+    "price": "90.99",
+    "detail": "The jersey worthy of the 4 time world champions. White/Dotted Blue color",
+    "image": "./usmnt.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Adidas X Ghosted 1",
+    "price": "195.99",
+    "detail": "Firm ground cleats created for pure speed. Pink/Orange color",
+    "image": "./ghosted.jpg"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Adidas Germany Mens 2022 Home",
+    "price": "45.99",
+    "detail": "Simply iconic. One of the greatest national teams ever. White/Black/Gold color",
+    "image": "./germany.jpg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Nike Phantom GT2 DF Elite",
+    "price": "192.99",
+    "detail": "Made for the elite striker with a clean striking zone. Football Grey color.",
+    "image": "./phantomgt2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Puma Manchester City Mens 2022/23 Away",
+    "price": "49.99",
+    "detail": "A modern classic for the historic treble winning side. Red/Black/Yellow color",
+    "image": "./mancity.jpg"
   }
 ]

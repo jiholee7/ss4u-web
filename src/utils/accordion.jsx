@@ -3,21 +3,21 @@ import { MdCancel, MdAnalytics } from "react-icons/md";
 const data = [
   {
     icon: <HiShieldCheck/>,
-    heading: "Best interest rates on the market",
+    heading: "Authentic Products Guaranteed",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Our SS4U authentication team works hard to guarantee that every single product sold by us are real, authentic supplies from our customers' favorite brands. ",
   },
   {
     icon: <MdCancel />,
-    heading: "Prevent unstable prices",
+    heading: "Free Returns and Exchanges",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "If you ever need to return a product or want to exchange for a different unit due to a defect or sizing issue, we are happy to help, as long as it is within 30 days of purchase.",
   },
   {
     icon: <MdAnalytics />,
-    heading: "Best price on the market",
+    heading: "Price Matching",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "We guarantee that SS4U's products are offered at the best prices across the market. If you find an authentic product sold at a lower price at a different retailer, we will price match to ensure that you get the best deal pssible.",
   },
 ];
 export default data;
